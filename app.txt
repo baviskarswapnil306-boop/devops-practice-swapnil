@@ -1,5 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("where are you from");
+        System.out.println("i am from Dhule");
     }
 }
